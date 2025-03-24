@@ -6,9 +6,9 @@ public class Livro {
 
     private String autor;
 
-    private Integer anoPublicacao;
+    private int anoPublicacao;
 
-    public Livro(String titulo, String autor, Integer anoPublicacao) {
+    public Livro(String titulo, String autor, int anoPublicacao) {
         this.titulo = titulo;
         this.autor = autor;
         this.anoPublicacao = anoPublicacao;
@@ -22,7 +22,7 @@ public class Livro {
         return autor;
     }
 
-    public Integer getAnoPublicacao() {
+    public int getAnoPublicacao() {
         return anoPublicacao;
     }
 
