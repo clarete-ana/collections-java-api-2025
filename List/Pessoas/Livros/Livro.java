@@ -1,4 +1,4 @@
-package Livros;
+package List.Pessoas.Livros;
 
 public class Livro {
 
@@ -28,7 +28,7 @@ public class Livro {
 
     @Override
     public String toString() {
-        return "Livros.Livro{" +
+        return "List.Pessoas.Livros.Livro{" +
                 "titulo='" + titulo + '\'' +
                 ", autor='" + autor + '\'' +
                 ", anoPublicacao=" + anoPublicacao +

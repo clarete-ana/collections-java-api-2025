@@ -1,4 +1,4 @@
-package Pessoas;
+package List.Pessoas;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,6 +1,5 @@
-package Pessoas;
+package List.Pessoas;
 
-import java.util.Collections;
 import java.util.Comparator;
 
 public class Pessoa implements Comparable<Pessoa>{
